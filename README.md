@@ -6,4 +6,4 @@ Jmeter-工具类扩展
 * IDCard 生成身份证号
 * iPhone 生成手机号
 >TODO
-* 
+* 随机数生成
